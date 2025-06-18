@@ -11,7 +11,7 @@ def get_furniture_collection():
     return db["Furniture"]
 
 def get_floor_collection():
-    return db["Floor"]
+    return db["Floor2"]
 
 def get_features_collection():
     return db["Features"]

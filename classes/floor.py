@@ -1,3 +1,4 @@
+
 class Floor:
     def __init__(self,_id, x, y, z, properties, suitability, furniture_type):
         self.floor = []  # רשימת המשבצות על הרצפה
